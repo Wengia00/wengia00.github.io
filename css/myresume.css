@@ -7,6 +7,21 @@ h1, h2, h3, h4, h5, h6 {
 	text-transform: none;
 }
 
+div.tom {
+	margin:5px;
+	border:1px solid;
+	float:center;
+	width:250px;
+}
+div.border img{
+	width:100%;
+	height:auto;
+}
+div.jerry{
+	padding:0;
+	text-align:center;
+}
+
 .subheading {
 	font-family: 'Noto Sans TC', sans-serif;
 	font-size: 1.2rem;
