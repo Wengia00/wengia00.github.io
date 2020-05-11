@@ -17,6 +17,7 @@ div#flex-tom{
 	display: flex;
 	justify-content: flex-start;
 	flex-wrap: wrap;
+	flex-direction: row;
 }
 div.tom img{
 	width:100%;
