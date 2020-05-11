@@ -11,6 +11,7 @@ div.tom {
 	margin:5px;
 	float:center;
 	width:300px;
+	background-color: #FEEE9D;
 }
 div#flex_tom{
 	display: flex;
