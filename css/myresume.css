@@ -18,7 +18,7 @@ div#flex-tom{
 	justify-content: space-around;
 	flex-wrap: wrap;
 }
-div.tom img{
+div.flex-tom img{
 	width:100%;
 	height:auto;
 }
