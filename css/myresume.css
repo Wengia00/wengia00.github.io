@@ -12,6 +12,10 @@ div.tom {
 	float:center;
 	width:300px;
 }
+div#flex_tom{
+	display: flex;
+	justify-content: space-around;
+}
 div.tom img{
 	width:100%;
 	height:auto;
