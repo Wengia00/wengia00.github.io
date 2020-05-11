@@ -13,7 +13,7 @@ div.tom {
 	width:300px;
 	background-color: #FEEE9D;
 }
-div#flex-tom{
+div#flex_tom{
 	display: flex;
 	justify-content: flex-start;
 	flex-wrap: wrap;
