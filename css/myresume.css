@@ -15,7 +15,7 @@ div.tom {
 }
 div#flex-tom{
 	display: flex;
-	justify-content: space-around;
+	justify-content: flex-start;
 	flex-wrap: wrap;
 }
 div.tom img{
